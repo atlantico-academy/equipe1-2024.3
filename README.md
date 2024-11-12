@@ -32,4 +32,4 @@ Este projeto visa explorar as dinâmicas do setor a partir de um dataset que inc
 
 ### Graphical Abstract
 
-![Imagem do gráfico ou resumo visual do projeto](https://ibb.co/q7dcJDQ)
+![Carros.png](https://postimg.cc/T5RRPK98)
