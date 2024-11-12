@@ -1,11 +1,11 @@
-Variável,Descrição
-Model,O modelo do carro
-Year,O ano de fabricação do carro
-Price,O preço do carro
-Transmission,O tipo de transmissão usado no carro
-Mileage,A quilometragem do carro
-FuelType,O tipo de combustível usado pelo carro
-Tax,A taxa de imposto aplicável ao automóvel
-MPG,A eficiência de milhas por galão do carro
-EngineSize,O tamanho do motor do carro
-Manufacturer,O fabricante do carro
+Variável,Descrição,Tipo,Subtipo
+Model,O modelo do carro,Qualitativa,Nominal
+Year,O ano de fabricação do carro,Quantitativa,Discreta
+Price,O preço do carro,Quantitativa,Continua
+Transmission,O tipo de transmissão usado no carro,Qualitativa,Nominal
+Mileage,A quilometragem do carro,Quantitativa,Continua
+FuelType,O tipo de combustível usado pelo carro,Qualitativa,Nominal
+Tax,A taxa de imposto aplicável ao automóvel,Quantitativa,Continua
+MPG,A eficiência de milhas por galão do carro,Quantitativa,Continua
+EngineSize,O tamanho do motor do carro,Quantitativa,Continua
+Manufacturer,O fabricante do carro,Qualitativa,Nominal
