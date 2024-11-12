@@ -17,4 +17,4 @@ Este projeto visa explorar as dinâmicas do setor a partir de um dataset que inc
 
 ### Graphical Abstract
 
-![Graphical Abstract](./images/graphical abstract.png)
+![Graphical Abstract](./images/graphical_abstract.png)
