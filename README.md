@@ -1,7 +1,7 @@
 # DataDrivers
 
 <div align="center">
-  <img src="./images/Logo_DataDrivers.png" alt="Logo DataDrivers" width="400" />
+  <img src="./images/Logo_DataDrivers.png" alt="Logo DataDrivers" width="300" />
 </div>
 
 ## Análise e predição de Carros dos anos 70 a 2024
@@ -14,7 +14,7 @@ O mercado automotivo desempenha um papel essencial na economia global, sendo um 
 
 ## Base de dados
 
-A análise utiliza o dataset '90,000+ Cars Data From 1970 to 2024', disponível no [Kaggle]([https://github.com/Giselz](https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?resource=download). A base reúne dados sobre características importantes, como modelo, ano de fabricação, preço, transmissão, quilometragem, tipo de combustível, taxa, consumo (mpg), tamanho do motor e fabricante, permitindo uma visão detalhada da evolução do mercado automotivo.
+A análise utiliza o dataset '90,000+ Cars Data From 1970 to 2024', disponível no [Kaggle](https://www.kaggle.com/datasets/meruvulikith/90000-cars-data-from-1970-to-2024?resource=download). A base reúne dados sobre características importantes, como modelo, ano de fabricação, preço, transmissão, quilometragem, tipo de combustível, taxa, consumo (mpg), tamanho do motor e fabricante, permitindo uma visão detalhada da evolução do mercado automotivo.
 
 ## Metodologia
 
